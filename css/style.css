@@ -395,7 +395,7 @@ ol {
 -----------------------*/
 .hero-section {
 	background: #f2f7f8;
-	background-image: url("img/portfolio/3.jpg");
+	/* background-image: url("../img/portfolio/3.jpg"); */
 }
 
 .hero-text {
@@ -491,7 +491,7 @@ ol {
 	Resume section
 ----------------------*/
 .section.with-bg {
-	background-image: url(../img/resume-bg.jpg);
+	/* background-image: url('../img/resume-bg.jpg'); */
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -747,13 +747,13 @@ ol {
 }
 
 .home-six-style .hero-section {
-	background-image: url(img/portfolio/3.jpg);
+	/* background-image: url('../img/portfolio/3.jpg'); */
 	background-color: #001F33;
 	padding-top: 70px;
 }
 
 .home-six-style .hero-section img {
-	background-image: url(img/portfolio/3.jpg);
+	/* background-image: url('../img/portfolio/3.jpg'); */
 	margin-bottom: 60px;
 }
 
@@ -977,7 +977,7 @@ ol {
 	.resume-list {
 		margin-left: 0;
 		padding-left: 0;
-		border-left: none;S
+		border-left: none;
 	}
 	.review-slider {
 		padding-left: 0;
